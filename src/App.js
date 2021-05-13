@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       hello world!
+      JUNG EUN delilah LEE
     </div>
   );
 }
